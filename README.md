@@ -1,4 +1,4 @@
-- 👋 Hi, I’m leo
+- 👋 Hi, I’m Taotao Lyu
 - 👀 I’m interested in C/C++ and software development using these languages.
 - 🌱 I’m currently learning C/C++, along with data structures, algorithms, networking, systems, and databases.
 - 💞️ I’m looking to collaborate on projects that involve writing software in C/C++.
