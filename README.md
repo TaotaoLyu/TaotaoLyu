@@ -2,6 +2,6 @@
 - 👀 I’m interested in C/C++ and software development using these languages.
 - 🌱 I’m currently learning C/C++, along with data structures, algorithms, networking, systems, and databases.
 - 💞️ I’m looking to collaborate on projects that involve writing software in C/C++.
-- 📫 How to reach me : leo9627@foxmail.com
+- 📫 How to reach me : taotao.lyu@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that the C programming language, developed by Dennis Ritchie in the early 1970s, was instrumental in the creation of the Unix operating system?
